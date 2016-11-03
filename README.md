@@ -9,3 +9,7 @@ Pktgen-DPDK
 **Sounds like 'Packet-Gen'**
 
 Keith Wiles @ Intel
+
+=======================================
+This is a private repository for personal odp l2fwd test. 
+Only one file updated to write some statistic output into log file for further analysis.
